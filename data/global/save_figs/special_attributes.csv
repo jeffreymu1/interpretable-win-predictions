@@ -1,0 +1,11 @@
+char,atk_type,def_type,role,weapon,position,affinity_urban,affinity_outdoor,affinity_indoor,unit_type,alt_count,invul,deals_dmg,heals,heals_one_or_many,ex_cost,ex_length,generates_cost,max_hp,atk,def,dmg_reduction,healing,accuracy,evasion,crit,crit_res,crit_dmg,crit_dmg_res,stability,min_dmg,stability_rate,n_range,cc_power,cc_res,recov_boost,cost_recovery,atk_spd,mov_spd,block_rate_bonus,def_piercing,mag_count,na_cost,equip_slot1,equip_slot2,equip_slot3
+sshiroko,blue,?,dealer,?,back,B,SS,D,support,2,?,yes,no,?,3,4.93,yes,43517,8150,2060,?,8069,660,786,734,100,2.46,0.5,1582,0.8127,0.2,1000,100,100,0.0,700,1.0,?,0.0,0,?,?,hat,bag,wristwatch
+sayane,yellow,red,ts,?,back,A,A,B,support,1,no,yes,no,?,4,14.53,no,46530,7493,1804,?,8526,1160,191,1241,100,2.26,0.5,2194,0.8869,0.2,1000,100,100,0.0,700,1.0,200,0.0,0,?,?,gloves,bag,wristwatch
+saki,yellow,?,dealer,?,back,SS,D,B,support,1,?,yes,no,?,4,7.0,no,41990,8970,2132,?,11438,101,197,202,100,2.2,0.5,1582,0.8127,0.2,1000,186,100,0.0,700,1.0,?,0.0,0,?,?,hat,bag,necklace
+nagisa,red,?,dealer,?,back,D,B,SS,support,1,?,yes,yes,one,3,6.83,no,44099,7734,2061,?,11519,759,977,682,100,2.46,0.5,1132,0.731,0.2,1000,100,100,0.0,700,1.0,?,0.0,0,?,?,hat,bag,wristwatch
+rio,blue,?,support,?,back,A,D,SS,support,0,?,no,no,?,2,6.7,no,67546,5691,599,?,7564,714,1151,868,100,2.26,0.5,1201,0.7457,0.2,1000,100,136,0.0,700,1.0,?,0.0,0,?,?,shoes,hairpin,wristwatch
+hibiki,red,?,dealer,?,back,SS,B,B,support,1,?,yes,no,?,4,4.0,no,43506,7070,437,?,7437,500,201,831,100,2.46,0.5,1141,0.7329,0.2,1000,100,136,0.0,700,1.0,?,0.0,0,?,?,hat,hairpin,wristwatch
+minori,red,?,dealer,?,back,D,B,SS,support,0,?,yes,no,?,4,4.8,no,43678,8106,2062,?,8023,656,791,732,100,2.46,0.5,1592,0.8142,0.2,1000,100,100,0.0,700,1.0,?,0.0,0,?,?,hat,bag,wristwatch
+iroha,blue,yellow,ts,?,back,D,B,SS,support,0,no,yes,no,?,6,19.17,no,58232,7278,110,?,7903,896,650,728,100,2.46,0.5,2309,0.8978,0.2,1000,100,100,0.35,700,1.0,200,0.0,0,?,?,hat,badge,wristwatch
+nyserika,yellow,?,support,?,back,C,C,SS,support,2,?,yes,no,?,3,5.77,no,71981,5944,1800,?,8663,763,727,698,100,2.26,0.5,1463,0.794,0.2,1000,100,100,0.0,700,1.0,?,0.0,0,?,?,shoes,bag,wristwatch
+utaha,yellow,yellow,dealer,?,back,A,B,A,support,1,no,yes,no,?,4,4.0,no,46592,6449,112,?,7665,318,1176,1375,100,2.26,0.5,1638,0.8209,0.2,1000,100,136,0.0,700,1.2,?,0.0,0,?,?,gloves,hairpin,wristwatch

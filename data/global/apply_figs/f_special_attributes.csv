@@ -1,0 +1,11 @@
+char,atk_type,def_type,affinity_urban,affinity_outdoor,affinity_indoor,unit_type,alt_count,invul,deals_dmg,heals,heals_one_or_many,ex_cost,ex_length,generates_cost,max_hp,atk,def,healing,accuracy,evasion,crit,crit_dmg,stability,min_dmg,cc_power,cc_res,recov_boost,atk_spd,equip_slot1,equip_slot2,equip_slot3
+sshiroko,blue,?,B,SS,D,support,2,?,yes,no,?,3,4.93,yes,43517,8150,2060,8069,660,786,734,2.46,1582,0.8127,100,100,0.0,1.0,hat,bag,wristwatch
+sayane,yellow,red,A,A,B,support,1,no,yes,no,?,4,14.53,no,46530,7493,1804,8526,1160,191,1241,2.26,2194,0.8869,100,100,0.0,1.0,gloves,bag,wristwatch
+saki,yellow,?,SS,D,B,support,1,?,yes,no,?,4,7.0,no,41990,8970,2132,11438,101,197,202,2.2,1582,0.8127,186,100,0.0,1.0,hat,bag,necklace
+nagisa,red,?,D,B,SS,support,1,?,yes,yes,one,3,6.83,no,44099,7734,2061,11519,759,977,682,2.46,1132,0.731,100,100,0.0,1.0,hat,bag,wristwatch
+rio,blue,?,A,D,SS,support,0,?,no,no,?,2,6.7,no,67546,5691,599,7564,714,1151,868,2.26,1201,0.7457,100,136,0.0,1.0,shoes,hairpin,wristwatch
+hibiki,red,?,SS,B,B,support,1,?,yes,no,?,4,4.0,no,43506,7070,437,7437,500,201,831,2.46,1141,0.7329,100,136,0.0,1.0,hat,hairpin,wristwatch
+minori,red,?,D,B,SS,support,0,?,yes,no,?,4,4.8,no,43678,8106,2062,8023,656,791,732,2.46,1592,0.8142,100,100,0.0,1.0,hat,bag,wristwatch
+iroha,blue,yellow,D,B,SS,support,0,no,yes,no,?,6,19.17,no,58232,7278,110,7903,896,650,728,2.46,2309,0.8978,100,100,0.35,1.0,hat,badge,wristwatch
+nyserika,yellow,?,C,C,SS,support,2,?,yes,no,?,3,5.77,no,71981,5944,1800,8663,763,727,698,2.26,1463,0.794,100,100,0.0,1.0,shoes,bag,wristwatch
+utaha,yellow,yellow,A,B,A,support,1,no,yes,no,?,4,4.0,no,46592,6449,112,7665,318,1176,1375,2.26,1638,0.8209,100,136,0.0,1.2,gloves,hairpin,wristwatch

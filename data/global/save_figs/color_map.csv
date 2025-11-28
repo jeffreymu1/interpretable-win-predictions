@@ -1,0 +1,5 @@
+attack_color,red,yellow,blue,purple
+red,2.0,1.0,0.5,0.5
+yellow,0.5,2.0,1.0,1.0
+blue,1.0,0.5,2.0,1.0
+purple,1.0,0.5,1.5,2.0
