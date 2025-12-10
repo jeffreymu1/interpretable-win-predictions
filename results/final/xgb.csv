@@ -1,0 +1,6 @@
+seed,model,best_cv_acc,test_acc,test_roc_auc,best_params,test_precision,test_recall,test_f1
+0,xgb,0.5605890603085554,0.5769230769230769,0.5525925925925926,"{'clf__colsample_bytree': 1.0, 'clf__learning_rate': 0.3, 'clf__max_depth': 2, 'clf__reg_lambda': 0.1, 'clf__subsample': 0.2}",0.56,0.56,0.56
+1,xgb,0.5951612903225807,0.46153846153846156,0.42814814814814817,"{'clf__colsample_bytree': 0.98, 'clf__learning_rate': 1, 'clf__max_depth': 1, 'clf__reg_lambda': 0.001, 'clf__subsample': 1.0}",0.3333333333333333,0.12,0.17647058823529413
+2,xgb,0.5822346891070593,0.4423076923076923,0.4777777777777778,"{'clf__colsample_bytree': 1.0, 'clf__learning_rate': 0.6, 'clf__max_depth': 0, 'clf__reg_lambda': 0.001, 'clf__subsample': 0.1}",0.43333333333333335,0.52,0.4727272727272727
+3,xgb,0.5844787283777466,0.46153846153846156,0.38222222222222224,"{'clf__colsample_bytree': 1.0, 'clf__learning_rate': 0.1, 'clf__max_depth': 0, 'clf__reg_lambda': 0.1, 'clf__subsample': 0.2}",0.42857142857142855,0.36,0.391304347826087
+5,xgb,0.5585553997194952,0.4807692307692308,0.5081481481481481,"{'clf__colsample_bytree': 0.9, 'clf__learning_rate': 1, 'clf__max_depth': 3, 'clf__reg_lambda': 10.0, 'clf__subsample': 0.6}",0.475,0.76,0.5846153846153846
