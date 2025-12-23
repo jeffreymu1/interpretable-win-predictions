@@ -14,6 +14,11 @@ Win prediction in battle arena games is often confounded by factors like player 
 
 ---
 
+## Paper
+[Position, Power, Probability: Interpreting Win Prediction in a Strategy Game](report/interpretable_win_predictions.pdf)
+
+---
+
 ## Setup
 
 Install dependencies (recommended in a virtual environment):
@@ -22,11 +27,15 @@ Install dependencies (recommended in a virtual environment):
 pip install -r requirements.txt
 ```
 
+---
+
 ## Data Dictionary
 
 A structured data dictionary for the final dataset lives in:
 
 -  `data-dictionary.md`
+
+---
 
 ## Key Packages
 
