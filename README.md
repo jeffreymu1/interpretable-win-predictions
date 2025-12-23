@@ -1,6 +1,6 @@
 #  Position, Power, Probability: Interpreting Win Prediction in a Strategy Game
 
-descript here
+Win prediction in battle arena games is often confounded by factors like player skill and coordination. We study a battle arena-like tactical setting where combat resolves automatically, isolating the effects of team composition and unit positioning on match outcomes. We evaluate several machine learning models and find modest improvements over a majority-class baseline. We apply interpretability methods and find importances concentrated in a few unit slots and attributes, and further address directions toward recommendation-oriented modeling.
 
 ---
 
