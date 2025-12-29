@@ -4,18 +4,18 @@ Win prediction in battle arena games is often confounded by factors like player 
 
 ---
 
-## Repository Structure
-
-- `data/` — stores all raw and preprocessed data files.
-- `figures/` — stores all visualizations (EDA + metrics).
-- `report/` — report describing problem motivation, pipeline, methodology, and results.
-- `results/` — trained models and outputs, comparisons, and artifacts.
-- `src/` — jupyter notebooks used for full pipeline.
+## Paper
+[Position, Power, Probability: Interpreting Win Prediction in a Strategy Game](report/interpretable_win_predictions.pdf)
 
 ---
 
-## Paper
-[Position, Power, Probability: Interpreting Win Prediction in a Strategy Game](report/interpretable_win_predictions.pdf)
+## Repository Structure
+
+- `data/` — stores all raw and preprocessed data files.
+- `figures/` — stores all visualizations.
+- `report/` — report describing problem motivation, pipeline, methodology, and results.
+- `results/` — trained models and outputs, comparisons, and artifacts.
+- `src/` — jupyter notebooks used for full pipeline.
 
 ---
 

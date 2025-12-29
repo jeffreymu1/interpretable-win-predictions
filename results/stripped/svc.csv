@@ -1,0 +1,6 @@
+seed,model,best_cv_acc,test_acc,test_roc_auc,best_params,test_precision,test_recall,test_f1
+0,svc,0.5821645628798504,0.6153846153846154,0.6081481481481482,"{'clf__C': 5, 'clf__class_weight': 'balanced', 'clf__gamma': 0.01}",0.5757575757575758,0.76,0.6551724137931034
+1,svc,0.5820476858345021,0.5192307692307693,0.5718518518518519,"{'clf__C': 0.5, 'clf__class_weight': None, 'clf__gamma': 'scale'}",0.5,0.24,0.32432432432432434
+2,svc,0.5692379616643292,0.6346153846153846,0.6592592592592592,"{'clf__C': 2, 'clf__class_weight': 'balanced', 'clf__gamma': 'scale'}",0.6153846153846154,0.64,0.6274509803921569
+3,svc,0.573562412342216,0.5192307692307693,0.4755555555555556,"{'clf__C': 2, 'clf__class_weight': 'balanced', 'clf__gamma': 'scale'}",0.5,0.52,0.5098039215686274
+5,svc,0.5712949976624591,0.6538461538461539,0.6451851851851853,"{'clf__C': 0.5, 'clf__class_weight': 'balanced', 'clf__gamma': 'scale'}",0.6,0.84,0.7
